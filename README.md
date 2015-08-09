@@ -1,4 +1,4 @@
-hello-world
+init-stage
 ===========
 
-This is a hello world application
+TODO
